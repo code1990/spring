@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-aop" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-aspects" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-beans" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-context" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-context-indexer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-context-support" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-expression" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-framework-bom" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-instrument" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-jcl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-jdbc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-jms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-messaging" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-orm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-oxm" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-tx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-webflux" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-webmvc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-websocket" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
